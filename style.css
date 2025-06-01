@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
-*{
+
+* {
     margin: 0;
     box-sizing: border-box;
     padding: 0;
@@ -31,96 +32,109 @@ button {
     font-weight: bolder;
 }
 
-.contact{
+.contact {
 
 
     text-align: center;
     margin: auto;
     margin-top: 40px;
     width: 800px;
-   border: solid 4px;
-   background-color: #FFFFFF;
-   opacity: 0.8;
-   margin-bottom: 331px;
- 
-    
+    border: solid 4px;
+    background-color: #FFFFFF;
+    opacity: 0.8;
+    margin-bottom: 327px;
+
+
 }
-button:hover{  text-decoration: none;
+
+button:hover {
+    text-decoration: none;
     color: #FFFFFF;
     cursor: pointer;
     border: #FFFFFF
-    }
-h2{
+}
+
+h2 {
     font-size: 35px;
     margin-bottom: 20px;
 }
-p{
+
+p {
     font-size: 25px;
     font-family: 'Poppins';
-   
+
 }
 
 
-.form{
+.form {
     text-align: center;
     margin: auto;
     margin-top: 40px;
     width: 800px;
 
 }
-footer{
-    color:#FFFFFF;
+
+footer {
+    color: #FFFFFF;
     display: flex;
     justify-content: center;
-    
+
     font-size: 30px;
     gap: 30px;
     height: 50px;
     background-color: #202020;
 
-  
+
+}
+
+a{
+    margin-top: 4px;
 }
 
 
-.pFooter{
+.pFooter {
 
-     font-size: 15px;
-     justify-content:center;
-
-
+    font-size: 15px;
+    justify-content: center;
     margin-top: 19px;
     margin-left: 136px;
     margin-right: 53px;
 }
-.bi-linkedin{
-    color: rgb(10, 100, 198); 
+
+.bi-linkedin {
+    color: rgb(10, 100, 198);
 }
-.bi-google{
+
+.bi-google {
     color: darkred;
 }
 
-.bi-github{
-    
+.bi-github {
+
     color: #FFFFFF;
-    
+
 }
-.bi-browser-edge{
+
+.bi-browser-edge {
     color: #004aad;
 }
 
 
-@media screen and (max-width: 700px){
-    nav{
+@media screen and (max-width: 700px) {
+    nav {
         display: block;
     }
-    .contact{
+
+    .contact {
         width: 380px;
         margin-top: 110px;
     }
-    p{
+
+    p {
         font-size: 14px;
     }
-    footer{
+
+    footer {
         margin-top: 148px;
     }
 }
