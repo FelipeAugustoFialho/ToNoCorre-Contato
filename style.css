@@ -41,6 +41,7 @@ button {
    border: solid 4px;
    background-color: #FFFFFF;
    opacity: 0.8;
+   margin-bottom: 331px;
  
     
 }
@@ -59,6 +60,7 @@ p{
    
 }
 
+
 .form{
     text-align: center;
     margin: auto;
@@ -70,12 +72,26 @@ footer{
     color:#FFFFFF;
     display: flex;
     justify-content: center;
-    margin-top: 360px;
-    font-size: 50px;
+    
+    font-size: 30px;
     gap: 30px;
+    height: 50px;
+    background-color: #202020;
 
+  
 }
 
+
+.pFooter{
+
+     font-size: 15px;
+     justify-content:center;
+
+
+    margin-top: 19px;
+    margin-left: 136px;
+    margin-right: 53px;
+}
 .bi-linkedin{
     color: rgb(10, 100, 198); 
 }
