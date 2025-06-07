@@ -232,7 +232,8 @@ a{
 
     .contact {
         width: 380px;
-        margin-top: 110px;
+        /*margin-top: 110px;*/
+        margin-top: 153px;
     }
 
     
@@ -249,7 +250,8 @@ a{
         height: 77px;
         width: 100vw;
         background-color: #202020;
-        margin-top: -62px;
+
+        /*margin-top: -62px;*/
 
     }
 
