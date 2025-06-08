@@ -233,7 +233,7 @@ a{
     .contact {
         width: 380px;
         /*margin-top: 110px;*/
-        margin-top: 153px;
+        margin-top: 70px;
     }
 
     
@@ -261,7 +261,7 @@ a{
 
     .pFooter {
         font-size: 12px;
-        margin-left: 48px;
+        margin-left: 20px;
         margin-top: -22px;
     }
 
@@ -269,8 +269,8 @@ a{
         font-size: 12px;
         justify-content: center;
         margin-top: -18px;
-        margin-left: 189px;
-        margin-right: 36px;
+        margin-left: 155px;
+        margin-right: 0px;
 
 
     }
@@ -281,8 +281,12 @@ a{
         justify-content: center;
         margin-top: 1px;
         margin-bottom: -4px;
-        margin-left: 157px;
+        margin-left: 125px;
         margin-right: 35px;
 
+    }
+
+    .bi-linkedin {
+        margin-left: -10px;
     }
 }
