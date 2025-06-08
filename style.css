@@ -154,7 +154,7 @@ footer {
     gap: 10px;
 }
 
-a{
+a {
     margin-top: 4px;
 }
 
@@ -206,24 +206,24 @@ a{
         display: none;
     }
 
-     .navMobile {
+    .navMobile {
         display: grid;
     }
 
-      .list {
+    .list {
         display: grid;
         margin: auto;
         background-color: black;
         width: 150px;
     }
 
-     .menu-options.active {
+    .menu-options.active {
         display: grid;
         margin-right: 145px;
         z-index: 1;
     }
 
-     .menu-icon {
+    .menu-icon {
         font-size: 50px;
         cursor: pointer;
         color: #FFFFFF;
@@ -234,14 +234,16 @@ a{
         width: 380px;
         /*margin-top: 110px;*/
         margin-top: 70px;
+        margin-bottom: 295px;
     }
 
-    
+
 
     p {
         font-size: 14px;
     }
-   footer {
+
+    footer {
         color: #FFFFFF;
         display: block;
         justify-content: center;
@@ -255,7 +257,7 @@ a{
 
     }
 
-     a {
+    a {
         margin-left: 60px;
     }
 
